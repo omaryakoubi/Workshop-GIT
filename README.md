@@ -1,5 +1,5 @@
 <h1>ADD REMOTE</h1>
-<h3>git remote add yourLinkHere</h3>
+<h3>git remote add origin yourLinkHere</h3>
 
 <h1>ADD COMMIT & PUSH YOUR WORK</h1>
 <h3>git add .</h3>
